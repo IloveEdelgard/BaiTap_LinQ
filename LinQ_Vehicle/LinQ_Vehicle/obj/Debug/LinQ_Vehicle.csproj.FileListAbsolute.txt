@@ -1,0 +1,7 @@
+D:\TLHT\C#\BT\LinQ_Vehicle\LinQ_Vehicle\bin\Debug\LinQ_Vehicle.exe.config
+D:\TLHT\C#\BT\LinQ_Vehicle\LinQ_Vehicle\bin\Debug\LinQ_Vehicle.exe
+D:\TLHT\C#\BT\LinQ_Vehicle\LinQ_Vehicle\bin\Debug\LinQ_Vehicle.pdb
+D:\TLHT\C#\BT\LinQ_Vehicle\LinQ_Vehicle\obj\Debug\LinQ_Vehicle.csproj.AssemblyReference.cache
+D:\TLHT\C#\BT\LinQ_Vehicle\LinQ_Vehicle\obj\Debug\LinQ_Vehicle.csproj.CoreCompileInputs.cache
+D:\TLHT\C#\BT\LinQ_Vehicle\LinQ_Vehicle\obj\Debug\LinQ_Vehicle.exe
+D:\TLHT\C#\BT\LinQ_Vehicle\LinQ_Vehicle\obj\Debug\LinQ_Vehicle.pdb
